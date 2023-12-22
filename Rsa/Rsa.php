@@ -2,11 +2,9 @@
 
 namespace RsaCrypto {
 
-    /** @Dev -> @Ali_Cod7  */
+    /** @Dev -> Error772  */
 
     /** @Php : 8.1 */
-
-    /** @Telegram-ID -> @Error772 */
 
     class RsaCrypTools {
 
