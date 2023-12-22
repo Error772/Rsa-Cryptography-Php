@@ -70,8 +70,8 @@ echo 'Decrypted Text : ' . $DecryptedText . "<br/>" . "<br/>" . "<br/>";
 
 //============================================================================\\
 
-# Telegram ID => T.me/Ali_Cod7
+# Telegram ID => T.me/Error772
 ```
 ---
 
-- ### **Telegram ID : [Ali_Cod7](https://T.me/Ali_Cod7)**
+- ### **Telegram ID : [Error772](https://T.me/Error772)**
